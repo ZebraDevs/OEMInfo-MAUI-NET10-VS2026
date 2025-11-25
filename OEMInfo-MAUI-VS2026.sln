@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Blend for Visual Studio Version 18
+VisualStudioVersion = 18.0.11222.15 d18.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OEMInfo-MAUI-NET10", "OEMInfo-MAUI-NET10\OEMInfo-MAUI-NET10.csproj", "{997007C3-BAD1-4093-90CA-8A2341CF5A5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{997007C3-BAD1-4093-90CA-8A2341CF5A5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{997007C3-BAD1-4093-90CA-8A2341CF5A5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{997007C3-BAD1-4093-90CA-8A2341CF5A5F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{997007C3-BAD1-4093-90CA-8A2341CF5A5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{997007C3-BAD1-4093-90CA-8A2341CF5A5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{997007C3-BAD1-4093-90CA-8A2341CF5A5F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C521B81-E015-4EBB-B0D8-922D174D16FE}
+	EndGlobalSection
+EndGlobal
