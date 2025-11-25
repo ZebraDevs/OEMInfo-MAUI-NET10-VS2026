@@ -4,7 +4,7 @@
 
 Refer to https://github.com/ZebraDevs/OEMInfo-MAUI-Sample for basic setup and info about working with Zebra OEMInfo and EMDK.
 
-This repo hosts the OEMInfo sample code, tergeting .NET10 and developed with VS2026.
+This repo hosts the OEMInfo sample code, targeting .NET10 and developed with VS2026.
 
 ### Screens
 
