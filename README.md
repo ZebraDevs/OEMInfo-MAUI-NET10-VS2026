@@ -1,28 +1,15 @@
 ### Please be aware that this application / sample is provided as-is for demonstration purposes without any guarantee of support
 
-## OEMInfo-MAUI-Sample
+## OEMInfo-MAUI-NET10-VS2026
 
-- v2.0 added self-granting access manager permission at runtime
+Refer to https://github.com/ZebraDevs/OEMInfo-MAUI-Sample for basic setup and info about working with Zebra OEMInfo and EMDK.
 
-- For previous versions, refer to https://github.com/ZebraDevs/OEMINFO_WITH_STAGENOW for information about how to grant the needed permissions to this app to access OEMInfo using Stagenow
-
-- To create a APK:
-    - Switch to Release
-
-    ![image](https://github.com/NDZL/OEMInfo-MAUI-Sample/assets/11386676/d58acf3a-5ce7-40bc-90cd-4b345528e09e)
-
-    - Choose Deploy from the Build menu
-
-    ![image](https://github.com/NDZL/OEMInfo-MAUI-Sample/assets/11386676/790adbb4-898c-4ee0-a59d-0e59f09d2851)
-
-    - Pick the APK in the "OEMInfo-MAUI-Sample\bin\Release\net8.0-android" folder
-
-    ![image](https://github.com/NDZL/OEMInfo-MAUI-Sample/assets/11386676/62f68370-7cc9-4c4e-a279-81bb9bc469f4)
-
+This repo hosts the OEMInfo sample code, tergeting .NET10 and developed with VS2026.
 
 ### Screens
 
-![image](https://github.com/NDZL/OEMInfo-MAUI-Sample/assets/11386676/861d72fd-677c-4493-b662-2650c6a307b0)
+<img width="491" height="753" alt="image" src="https://github.com/user-attachments/assets/4ecdb737-0b37-4dda-a686-534d0178ab1a" />
 
 
-![image](https://cxnt48.com/author?ghOEMINFOmaui)
+
+![image](https://cxnt48.com/author?ghOEMINFOmauiNET10VS2026)
